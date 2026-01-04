@@ -1,0 +1,16 @@
+{
+  "name": "eip1967-proxy-storage-inspector",
+  "version": "1.0.0",
+  "description": "EIP-1967 Proxy Storage Inspector - Human-readable EVM storage inspection for proxy contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["eip-1967", "proxy", "storage", "inspector", "evm", "ethereum"],
+  "author": "Yinhui Zhou",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "viem": "^2.43.4"
+  }
+}
